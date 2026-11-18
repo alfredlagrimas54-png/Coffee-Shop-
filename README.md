@@ -15,8 +15,10 @@ A PHP coffee shop website for browsing products and placing orders.
 ## Requirements
 
 - XAMPP
-- PHP
 - MySQL
+- PHP
+- CSS
+- Java Script
 
 ## Installation
 
