@@ -15,8 +15,8 @@ A PHP coffee shop website for browsing products and placing orders.
 ## Requirements
 
 - XAMPP
-- PHP with PDO MySQL
-- MySQL or MariaDB
+- PHP
+- MySQL
 
 ## Installation
 
